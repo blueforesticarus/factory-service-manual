@@ -10,14 +10,14 @@ assignees: blueForestIcarus
 ## libgen upload link
 [you should have got this from libgen after you finished uploading]
 
-### type (car/motorcycle/etc)
- - 
-
-### year
- - 
-
-### brand 
+#### type (car/motorcycle/etc)
 -
+
+#### year
+- 
+
+#### brand 
+- 
  
-### models
+#### models
 -
