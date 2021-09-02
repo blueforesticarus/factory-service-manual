@@ -1,7 +1,7 @@
+* This repo contains no copyrighted material *
+
 # Factory Service Manual Index
 The goal of this repo is to be an index of automotive factory service manuals uploaded to libgen.
-
-Maybe in the future I'll try converting them to html and serving them all through a website.
 
 # Contributing:
 ## 1. Upload to libgen
